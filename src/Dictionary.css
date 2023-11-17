@@ -1,0 +1,82 @@
+.btn-outline-primary {
+  --bs-btn-color: #86a789;
+  --bs-btn-border-color: #86a789;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #86a789;
+  --bs-btn-hover-border-color: #86a789;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #86a789;
+  --bs-btn-active-border-color: #86a789;
+  --bs-btn-disabled-color: #86a789;
+  --bs-btn-disabled-border-color: #86a789;
+}
+
+h1 {
+  font-family: Pixelify Sans, sans-serif;
+  color: #86a789;
+  font-size: 56px;
+  font-weight: 700;
+  letter-spacing: 0.15px;
+  padding-bottom: 30px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  margin: 0px;
+  font-weight: 700;
+  color: #86a789;
+}
+
+h4 {
+  color: #a9a9a9;
+  font-size: 16px;
+}
+
+h5 {
+  margin: 0px;
+}
+
+p {
+  margin: 0px;
+}
+
+input {
+  border: 1px solid #86a789;
+  border-radius: 20px;
+  color: #333;
+  margin-right: 10px;
+  padding: 15px 20px;
+  width: 55%;
+}
+
+small {
+  font-size: 11px;
+  margin-top: 5px;
+}
+
+i {
+  border-left: 3px solid #86a789;
+  padding-left: 10px;
+}
+
+.section {
+  margin: 50px 0;
+}
+
+.definition .item {
+  margin: 20px 0;
+}
+
+.item {
+  border: 1px solid #86a789;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.photo-gallery img {
+  border-radius: 6px;
+  margin: 10px 0;
+}
