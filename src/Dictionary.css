@@ -62,6 +62,22 @@ i {
   padding-left: 10px;
 }
 
+.App footer {
+  font-size: 13px;
+  text-align: center;
+  padding: 20px;
+}
+
+.App footer a.links {
+  color: #86a789;
+  text-decoration: none;
+}
+
+.App footer .links:hover {
+  color: #86a789 !important;
+  font-weight: 600;
+}
+
 .section {
   margin: 50px 0;
 }
